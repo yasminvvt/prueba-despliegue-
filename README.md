@@ -1,1 +1,3 @@
-# prueba-despliegue-
+# Datos sobre Expo Ed 2025
+Mi proyecto consta de ir realizando publicaciones referentes a....
+
